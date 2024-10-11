@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-week>
+<week name="announcer" chars="pico,bf,gf" sprite="week3">
+	<song>Tie Breaker</song>
+	<song>Budget Cuts</song>
+	<song>Take The Plunge</song>
+</week>
