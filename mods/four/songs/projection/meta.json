@@ -1,0 +1,18 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 122,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Projection",
+	"icon": "two",
+	"name": "projection",
+	"color": "#FFFFFF"
+}
