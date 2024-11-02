@@ -3,7 +3,7 @@
 	"opponentModeAllowed": true,
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"bpm": 174,
+	"bpm": 115,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
@@ -11,9 +11,8 @@
 	],
 	"needsVoices": true,
 	"parsedColor": -1,
-	"displayName": "four",
+	"displayName": "Freefall",
 	"icon": "four",
-	"name": "four",
-	"color": "#FFFFFF",
-	"customValues": {}
+	"name": "freefall",
+	"color": "#FFFFFF"
 }
