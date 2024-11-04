@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="two" folder="stages/two/" startCamPosY = "0" startCamPosX="0">
+    <sprite name = "sky"            x = "-1130" y = "-150"   sprite = "sky"   scroll = "0.9" />
+    <sprite name = "bgtrees"      x = "-1400"  y = "300"     sprite = "bgtrees"      scroll = "0.9"/>
+    <sprite name = "trees"   x = "600"   y = "200"       sprite = "tree"     scroll = "0.9" />
+    <sprite name = "grass"       x = "-1300"   y = "600"     sprite = "grass"       scroll = "0.9" />
+    <girlfriend x = "-100"/>
+    <dad       x = "-800"/>
+    <boyfriend x = "600"/>
+</stage>
