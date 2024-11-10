@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "evil",
+	"difficulties": [
+		"NORMAL"
+	],
+	"parsedColor": -65536,
+	"color": "#FF0000",
+	"name": "bewilderment",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Bewilderment",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 170
+}

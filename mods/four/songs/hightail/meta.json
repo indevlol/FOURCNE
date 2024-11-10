@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -9671572,
+	"displayName": "Hightail",
+	"icon": "metal",
+	"name": "hightail",
+	"color": "#6C6C6C"
+}

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="two" folder="stages/two/" startCamPosY = "0" startCamPosX="0">
+    <sprite name = "hotel"            x = "-1000" y = "-200"   sprite = "hotel"   scroll = "0.9" />
+    <girlfriend x = "0"/>
+    <dad       x = "-500"/>
+    <boyfriend x = "500"/>
+</stage>
