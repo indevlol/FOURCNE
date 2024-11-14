@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="resume.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="resume instance 10000" x="0" y="0" width="188" height="65"/>
+	<SubTexture name="resume instance 10001" x="0" y="65" width="188" height="65"/>
+</TextureAtlas>

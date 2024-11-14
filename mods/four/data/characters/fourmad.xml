@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-300" y="150" sprite="fourmad1sthalf" camx="-100" camy="50" icon="four" color="#327DCF" holdTime="6.1">
+	<anim name="idle" anim="fourmadidle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="fourmadup" x="2" y="-1" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="fourmadleft" x="-7" y="-7" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="fourmadright" x="-8" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="fourmaddown" x="0" y="-1" fps="24" loop="false"/>
+	<anim name="no" anim="hesnothavingit" x="0" y="0" fps="24" loop="false"/>
+</character>

@@ -3,13 +3,13 @@
 <stage zoom="0.7" name="four" folder="stages/four/" startCamPosY = "0" startCamPosX="0">
     <sprite name = "sky"            x = "-1800" y = "-1000"   sprite = "skies/skyREG"   scroll = "0.9" />
     <sprite name = "othertree"      x = "-460"  y = "170"     sprite = "othertree"      scroll = "1.1"/>
-    <sprite name = "treesNormal2"   x = "600"   y = "0"       sprite = "treesNorm2"     scroll = "1.1" />
+    <sprite name = "treesNormal2"   x = "800"   y = "0"       sprite = "treesNorm2"     scroll = "1.1" />
     <sprite name = "landBack"       x = "200"   y = "500"     sprite = "landBack"       scroll = "1" />
     <sprite name = "treesNormal"    x = "-1200"  y = "365"    sprite = "treesNorm"      scroll = "1" />
     <sprite name = "landBack2"      x = "-1300"  y = "550"     sprite = "landBack2"      scroll = "1" />
     <sprite name = "landNormal"     x = "-1200" y = "600"     sprite = "landNorm"       scroll = "0.9" />
     <sprite name = "stash"          x = "-500"  y = "400"     sprite = "stash"          scroll = "0.9" />
-    <girlfriend x = "500"/>
+    <girlfriend x = "550"/>
     <dad       x = "-300"/>
     <boyfriend x = "900"/>
 </stage>
