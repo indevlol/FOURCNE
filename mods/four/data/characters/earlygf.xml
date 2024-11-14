@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="300" sprite="earlybfbgf" icon="dad" holdTime="6.1">
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="hey" anim="hey" x="96" y="2" fps="24" loop="false"/>
+	<anim name="sad" anim="sad" x="23" y="1" fps="24" loop="false"/>
+</character>

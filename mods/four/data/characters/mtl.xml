@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" y="130" sprite="metal-leafy" camx="100" camy="150" icon="metal" color="#6C6C6C" holdTime="6.1">
+	<anim name="idle" anim="MTL_IDLE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="MTL_UP" x="14" y="14" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="MTL_LEFT" x="96" y="10" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="MTL_RIGHT" x="-5" y="-20" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="MTL_DOWN" x="58" y="-54" fps="24" loop="false"/>
+	<anim name="knifethrow" anim="MTL_THROWKNF" x="60" y="72" fps="24" loop="false"/>
+</character>

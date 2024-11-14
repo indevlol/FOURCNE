@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fourmad1sthalf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fourmaddown instance 10000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="fourmaddown instance 10001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="fourmaddown instance 10002" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="fourmaddown instance 10003" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="fourmaddown instance 10004" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="fourmadidle instance 10000" x="6402" y="721" width="1281" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="fourmadidle instance 10001" x="2560" y="0" width="1280" height="721" frameX="-1" frameY="-1" frameWidth="1281" frameHeight="722"/>
+	<SubTexture name="fourmadidle instance 10002" x="3840" y="0" width="1280" height="721" frameX="-1" frameY="-1" frameWidth="1281" frameHeight="722"/>
+	<SubTexture name="fourmadidle instance 10003" x="5120" y="0" width="1280" height="721" frameX="-1" frameY="-1" frameWidth="1281" frameHeight="722"/>
+	<SubTexture name="fourmadleft instance 10000" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fourmadleft instance 10001" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="fourmadleft instance 10002" x="0" y="721" width="1280" height="720"/>
+	<SubTexture name="fourmadleft instance 10003" x="0" y="721" width="1280" height="720"/>
+	<SubTexture name="fourmadleft instance 10004" x="0" y="721" width="1280" height="720"/>
+	<SubTexture name="fourmadright instance 10000" x="1280" y="721" width="1281" height="721"/>
+	<SubTexture name="fourmadright instance 10001" x="1280" y="721" width="1281" height="721"/>
+	<SubTexture name="fourmadright instance 10002" x="2561" y="721" width="1281" height="721"/>
+	<SubTexture name="fourmadright instance 10003" x="2561" y="721" width="1281" height="721"/>
+	<SubTexture name="fourmadright instance 10004" x="2561" y="721" width="1281" height="721"/>
+	<SubTexture name="fourmadup instance 10000" x="3842" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="fourmadup instance 10001" x="3842" y="721" width="1280" height="720" frameX="0" frameY="-1" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="fourmadup instance 10002" x="5122" y="721" width="1280" height="720" frameX="0" frameY="-1" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="fourmadup instance 10003" x="5122" y="721" width="1280" height="720" frameX="0" frameY="-1" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="fourmadup instance 10004" x="5122" y="721" width="1280" height="720" frameX="0" frameY="-1" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10000" x="6402" y="721" width="1281" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10001" x="6402" y="721" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10002" x="0" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10003" x="0" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10004" x="1281" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10005" x="1281" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10006" x="2562" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10007" x="2562" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10008" x="3843" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10009" x="3843" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10010" x="3843" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10011" x="5124" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10012" x="6405" y="1442" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10013" x="0" y="2162" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10014" x="1281" y="2162" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10015" x="2562" y="2162" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10016" x="2562" y="2162" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10017" x="3843" y="2162" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10018" x="3843" y="2162" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10019" x="5124" y="2162" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10020" x="6405" y="2162" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10021" x="0" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10022" x="1281" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10023" x="2562" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10024" x="2562" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10025" x="3843" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10026" x="3843" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10027" x="3843" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10028" x="3843" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10029" x="3843" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10030" x="3843" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10031" x="3843" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10032" x="3843" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10033" x="5124" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10034" x="5124" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10035" x="5124" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10036" x="6405" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10037" x="6405" y="2882" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10038" x="0" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10039" x="0" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10040" x="0" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10041" x="1281" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10042" x="1281" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10043" x="1281" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10044" x="2562" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10045" x="2562" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10046" x="2562" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="hesnothavingit instance 10047" x="2562" y="3602" width="1281" height="720" frameX="0" frameY="-1" frameWidth="1281" frameHeight="721"/>
+</TextureAtlas>

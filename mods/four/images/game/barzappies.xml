@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="barzappies.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zapbar instance 10000" x="0" y="0" width="667" height="107" frameX="0" frameY="-8" frameWidth="671" frameHeight="115"/>
+	<SubTexture name="zapbar instance 10001" x="0" y="0" width="667" height="107" frameX="0" frameY="-8" frameWidth="671" frameHeight="115"/>
+	<SubTexture name="zapbar instance 10002" x="0" y="107" width="665" height="106" frameX="-5" frameY="-9" frameWidth="671" frameHeight="115"/>
+	<SubTexture name="zapbar instance 10003" x="0" y="107" width="665" height="106" frameX="-5" frameY="-9" frameWidth="671" frameHeight="115"/>
+	<SubTexture name="zapbar instance 10004" x="0" y="213" width="658" height="110" frameX="-13" frameY="0" frameWidth="671" frameHeight="115"/>
+	<SubTexture name="zapbar instance 10005" x="0" y="213" width="658" height="110" frameX="-13" frameY="0" frameWidth="671" frameHeight="115"/>
+</TextureAtlas>

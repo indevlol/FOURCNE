@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="select.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="select instance 10000" x="0" y="0" width="1369" height="805"/>
+	<SubTexture name="select instance 10001" x="0" y="0" width="1369" height="805"/>
+	<SubTexture name="select instance 10002" x="0" y="0" width="1369" height="805"/>
+	<SubTexture name="select instance 10003" x="0" y="0" width="1369" height="805"/>
+	<SubTexture name="select instance 10004" x="1369" y="0" width="0" height="0" frameX="278" frameY="137" frameWidth="1369" frameHeight="805"/>
+	<SubTexture name="select instance 10005" x="1369" y="0" width="0" height="0" frameX="278" frameY="137" frameWidth="1369" frameHeight="805"/>
+</TextureAtlas>

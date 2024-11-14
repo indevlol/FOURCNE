@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character y="-30" sprite="evileaf" camx="-130" camy="90" icon="evil" holdTime="6.1">
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+</character>
