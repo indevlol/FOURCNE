@@ -2,6 +2,19 @@
 <!DOCTYPE codename-engine-stage>
 <stage zoom="0.7" name="four" folder="stages/four/" startCamPosY = "0" startCamPosX="0">
     <sprite name = "sky"            x = "-1800" y = "-1000"   sprite = "skies/skyREG"   scroll = "0.9" />
+    <sprite name = "treesNormal2"   x = "-1000"   y = "100"       sprite = "treesNorm2"     scroll = "1.1" />
+    <sprite name = "treesNormal"    x = "500"  y = "370"    sprite = "treesNorm"      scroll = "1.1" />
+    <sprite name = "landNormal"     x = "-1200" y = "600"     sprite = "landNorm"       scroll = "0.9" />
+    <girlfriend />
+    <dad       x = "-300"/>
+    <boyfriend x = "900"/>
+</stage>
+
+<!-- 
+<!DOCTYPE codename-engine-stage>
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="four" folder="stages/four/" startCamPosY = "0" startCamPosX="0">
+    <sprite name = "sky"            x = "-1800" y = "-1000"   sprite = "skies/skyREG"   scroll = "0.9" />
     <sprite name = "othertree"      x = "-460"  y = "170"     sprite = "othertree"      scroll = "1.1"/>
     <sprite name = "treesNormal2"   x = "600"   y = "0"       sprite = "treesNorm2"     scroll = "1.1" />
     <sprite name = "landBack"       x = "200"   y = "500"     sprite = "landBack"       scroll = "1" />
@@ -12,4 +25,4 @@
     <girlfriend />
     <dad       x = "-300"/>
     <boyfriend x = "900"/>
-</stage>
+</stage> -->
