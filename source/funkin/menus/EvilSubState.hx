@@ -79,7 +79,7 @@ class EvilSubState extends MusicBeatSubstate
 		add(grpMenuShit);
 
 		var TitleText:FlxText = new FlxText(0, 0 + 30, 500, "The Evil Leafy Maze Game", 28, false);
-		TitleText.color = FlxColor.RED;
+		TitleText.color = FlxColor.WHITE;
 		TitleText.x = (FlxG.width - TitleText.width) / 2;
 		add(TitleText);
 
@@ -92,7 +92,7 @@ class EvilSubState extends MusicBeatSubstate
 				w = 160;
 
 			var songText:FlxText = new FlxText(0, 100 + (50 * i) + 30, w, menuItems[i], 12, false);
-			songText.color = FlxColor.RED;
+			songText.color = FlxColor.WHITE;
 			songText.x = (FlxG.width - songText.width) / 2;
 			grpMenuShit.add(songText);
 
@@ -188,11 +188,25 @@ class EvilSubState extends MusicBeatSubstate
 
 	function changeSelection(change:Int = 0):Void
 	{
+		grpMenuShit.members[curSelected].color = FlxColor.WHITE;
 		var event = EventManager.get(MenuChangeEvent).recycle(curSelected, FlxMath.wrap(curSelected + change, 0, menuItems.length-1), change, change != 0);
 		pauseScript.call("onChangeItem", [event]);
 		if (event.cancelled) return;
 
 		curSelected = event.value;
 
+
+		
+		grpMenuShit.members[curSelected].color = FlxColor.BLACK;
+		
+		// if (curSelected == 0) {
+		// 	grpMenuShit.members[curSelected + 1].color = FlxColor.WHITE;
+		// }
+		// else if (curSelected == grpMenuShit.members.length - 1) {
+		// 	grpMenuShit.members[curSelected - 1].color = FlxColor.WHITE;
+		// } else {
+		// 	grpMenuShit.members[curSelected + 1].color = FlxColor.WHITE;
+		// 	grpMenuShit.members[curSelected + 1].color = FlxColor.WHITE;
+		// }
 	}
 }
