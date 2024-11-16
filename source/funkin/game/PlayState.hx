@@ -1136,7 +1136,10 @@ class PlayState extends MusicBeatState
 			FlxG.switchState(new GitarooPause());
 		}
 		else {
-			openSubState(new PauseSubState());
+			if (SONG.meta.name == "bewilderment")
+				openSubState(new EvilSubState());
+			else				
+				openSubState(new PauseSubState());
 		}
 
 		updateDiscordPresence();
