@@ -20,7 +20,7 @@ class EvilSubState extends MusicBeatSubstate
 
 	var grpMenuShit:FlxTypedGroup<FlxText>;
 
-	var menuItems:Array<String> = ['Resume', 'Restart Song', 'Change Controls', 'Change Options', 'Exit to menu', "Exit to charter"];
+	var menuItems:Array<String> = ['Resume', 'Main Menu'];
 	var curSelected:Int = 0;
 
 	var pauseMusic:FlxSound;
@@ -68,19 +68,22 @@ class EvilSubState extends MusicBeatSubstate
 		bg.updateHitbox();
 		bg.screenCenter();
 		bg.scrollFactor.set();
+		bg.alpha = 0.5;
 		add(bg);
 
 
-		SelectionSpr = new FlxSprite(0, 0).makeGraphic(FlxG.width, 20, FlxColor.WHITE);
+		SelectionSpr = new FlxSprite(0, 0).makeGraphic(FlxG.width, 40, FlxColor.WHITE);
 		SelectionSpr.x = (FlxG.width - SelectionSpr.width) / 2;
 		add(SelectionSpr);
 
 		grpMenuShit = new FlxTypedGroup<FlxText>();
 		add(grpMenuShit);
 
-		var TitleText:FlxText = new FlxText(0, 0 + 30, 500, "The Evil Leafy Maze Game", 28, false);
-		TitleText.color = FlxColor.WHITE;
-		TitleText.x = (FlxG.width - TitleText.width) / 2;
+		var TitleText:FlxText = new FlxText(0, 0 + 30, 500, "Pause", 42, false);
+		// TitleText.color = FlxColor.WHITE;
+		TitleText.setFormat(Paths.font("bookantiqua_bold.ttf"), 42, FlxColor.WHITE);
+		TitleText.x = (FlxG.width - 120) / 2;
+		// TitleText.screenCenter(X);
 		add(TitleText);
 
 		for (i in 0...menuItems.length)
@@ -92,7 +95,8 @@ class EvilSubState extends MusicBeatSubstate
 				w = 160;
 
 			var songText:FlxText = new FlxText(0, 100 + (50 * i) + 30, w, menuItems[i], 12, false);
-			songText.color = FlxColor.WHITE;
+			// songText.color = FlxColor.WHITE;
+			songText.setFormat(Paths.font("bookantiqua_bold.ttf"), 28, FlxColor.WHITE);
 			songText.x = (FlxG.width - songText.width) / 2;
 			grpMenuShit.add(songText);
 
@@ -147,27 +151,8 @@ class EvilSubState extends MusicBeatSubstate
 		{
 			case "Resume":
 				close();
-			case "Restart Song":
-				parentDisabler.reset();
-				game.registerSmoothTransition();
-				FlxG.resetState();
-			case "Change Controls":
-				persistentDraw = false;
-				openSubState(new KeybindsOptions());
-			case "Change Options":
-				FlxG.switchState(new OptionsMenu());
-			case "Exit to charter":
-				FlxG.switchState(new funkin.editors.charter.Charter(PlayState.SONG.meta.name, PlayState.difficulty, false));
-			case "Exit to menu":
-				if (PlayState.chartingMode && Charter.undos.unsaved)
-					game.saveWarn(false);
-				else {
-					PlayState.resetSongInfos();
-					if (Charter.instance != null) Charter.instance.__clearStatics();
-
-					CoolUtil.playMenuSong();
-					FlxG.switchState(PlayState.isStoryMode ? new StoryMenuState() : new FreeplayState());
-				}
+			case "Main Menu":
+				FlxG.switchState(new MainMenuState());
 
 		}
 	}
