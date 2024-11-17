@@ -21,6 +21,7 @@ class EvilSubState extends MusicBeatSubstate
 	var grpMenuShit:FlxTypedGroup<FlxText>;
 
 	var menuItems:Array<String> = ['Resume', 'Main Menu'];
+	
 	var curSelected:Int = 0;
 
 	var pauseMusic:FlxSound;
