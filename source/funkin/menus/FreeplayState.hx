@@ -295,8 +295,13 @@ class FreeplayState extends MusicBeatState
 		Options.freeplayLastSong = songs[curSelected].name;
 		Options.freeplayLastDifficulty = songs[curSelected].difficulties[curDifficulty];
 
-		PlayState.loadSong(event.song, event.difficulty, event.opponentMode, event.coopMode);
-		FlxG.switchState(new PlayState());
+		if (songs[curSelected].name != "bewilderment") {
+			PlayState.loadSong(event.song, event.difficulty, event.opponentMode, event.coopMode);
+			FlxG.switchState(new PlayState());
+		}
+		else {
+			FlxG.switchState(new EvilLeafyStartMenuState());
+		}
 	}
 
 	public function convertChart() {

@@ -21,6 +21,7 @@ class EvilSubState extends MusicBeatSubstate
 	var grpMenuShit:FlxTypedGroup<FlxText>;
 
 	var menuItems:Array<String> = ['Resume', 'Main Menu'];
+	
 	var curSelected:Int = 0;
 
 	var pauseMusic:FlxSound;
@@ -82,7 +83,7 @@ class EvilSubState extends MusicBeatSubstate
 		var TitleText:FlxText = new FlxText(0, 0 + 30, 500, "Pause", 42, false);
 		// TitleText.color = FlxColor.WHITE;
 		TitleText.setFormat(Paths.font("bookantiqua_bold.ttf"), 42, FlxColor.WHITE);
-		TitleText.x = (FlxG.width - 120) / 2;
+		TitleText.x = (FlxG.width - 135) / 2;
 		// TitleText.screenCenter(X);
 		add(TitleText);
 
