@@ -4,6 +4,6 @@
     <sprite name = "maze"            x = "0" y = "0"   sprite = "maze"   scroll = "0.9" />
     <sprite name = "blacker"      x = "0"  y = "0"     sprite = "blacker"      scroll = "0.9"/>
     <girlfriend x = "500"/>
-    <dad       x = "730"/>
+    <dad       x = "760"/>
     <boyfriend x = "-1000"/>
 </stage>
