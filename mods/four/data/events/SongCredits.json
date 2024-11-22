@@ -1,0 +1,9 @@
+{
+  "params": [
+    {
+      "name": "SongName",
+      "type": "String",
+      "defaultValue": "tutorial"
+    }
+  ]
+}
