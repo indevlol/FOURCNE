@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Blue Xmas",
+	"icon": "Two",
+	"name": "blue xmas",
+	"color": "#FFFFFF"
+}

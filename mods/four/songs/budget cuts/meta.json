@@ -1,0 +1,18 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 150,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -11579569,
+	"displayName": "Budget Cuts",
+	"icon": "announcer",
+	"name": "budget cuts",
+	"color": "#4F4F4F"
+}
