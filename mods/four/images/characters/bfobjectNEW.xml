@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfobjectNEW.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfobj_DOWN instance 10000" x="0" y="0" width="378" height="288" frameX="0" frameY="-7" frameWidth="381" frameHeight="295"/>
+	<SubTexture name="bfobj_DOWN instance 10001" x="0" y="0" width="378" height="288" frameX="0" frameY="-7" frameWidth="381" frameHeight="295"/>
+	<SubTexture name="bfobj_DOWN instance 10002" x="378" y="0" width="379" height="295" frameX="-2" frameY="0" frameWidth="381" frameHeight="295"/>
+	<SubTexture name="bfobj_DOWN instance 10003" x="378" y="0" width="379" height="295" frameX="-2" frameY="0" frameWidth="381" frameHeight="295"/>
+	<SubTexture name="bfobj_DOWNMISS instance 10000" x="757" y="0" width="542" height="421"/>
+	<SubTexture name="bfobj_DOWNMISS instance 10001" x="757" y="0" width="542" height="421"/>
+	<SubTexture name="bfobj_DOWNMISS instance 10002" x="1299" y="0" width="542" height="421"/>
+	<SubTexture name="bfobj_DOWNMISS instance 10003" x="1299" y="0" width="542" height="421"/>
+	<SubTexture name="bfobj_HEY instance 10000" x="1841" y="0" width="405" height="320" frameX="-12" frameY="0" frameWidth="417" frameHeight="320"/>
+	<SubTexture name="bfobj_HEY instance 10001" x="1841" y="0" width="405" height="320" frameX="-12" frameY="0" frameWidth="417" frameHeight="320"/>
+	<SubTexture name="bfobj_HEY instance 10002" x="2246" y="0" width="384" height="313" frameX="0" frameY="-7" frameWidth="417" frameHeight="320"/>
+	<SubTexture name="bfobj_HEY instance 10003" x="2246" y="0" width="384" height="313" frameX="0" frameY="-7" frameWidth="417" frameHeight="320"/>
+	<SubTexture name="bfobj_HEY instance 10004" x="2630" y="0" width="393" height="315" frameX="-3" frameY="-5" frameWidth="417" frameHeight="320"/>
+	<SubTexture name="bfobj_HEY instance 10005" x="2630" y="0" width="393" height="315" frameX="-3" frameY="-5" frameWidth="417" frameHeight="320"/>
+	<SubTexture name="bfobj_IDLE instance 10000" x="3023" y="0" width="383" height="301" frameX="0" frameY="-11" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10001" x="3023" y="0" width="383" height="301" frameX="0" frameY="-11" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10002" x="3406" y="0" width="382" height="303" frameX="-2" frameY="-9" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10003" x="3406" y="0" width="382" height="303" frameX="-2" frameY="-9" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10004" x="0" y="421" width="382" height="306" frameX="-3" frameY="-6" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10005" x="0" y="421" width="382" height="306" frameX="-3" frameY="-6" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10006" x="382" y="421" width="380" height="311" frameX="-9" frameY="-1" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10007" x="382" y="421" width="380" height="311" frameX="-9" frameY="-1" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10008" x="762" y="421" width="381" height="312" frameX="-9" frameY="0" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10009" x="762" y="421" width="381" height="312" frameX="-9" frameY="0" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10010" x="762" y="421" width="381" height="312" frameX="-9" frameY="0" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10011" x="762" y="421" width="381" height="312" frameX="-9" frameY="0" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10012" x="762" y="421" width="381" height="312" frameX="-9" frameY="0" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_IDLE instance 10013" x="762" y="421" width="381" height="312" frameX="-9" frameY="0" frameWidth="390" frameHeight="312"/>
+	<SubTexture name="bfobj_LEFT instance 10000" x="1143" y="421" width="385" height="308" frameX="0" frameY="0" frameWidth="393" frameHeight="308"/>
+	<SubTexture name="bfobj_LEFT instance 10001" x="1143" y="421" width="385" height="308" frameX="0" frameY="0" frameWidth="393" frameHeight="308"/>
+	<SubTexture name="bfobj_LEFT instance 10002" x="1528" y="421" width="383" height="308" frameX="-10" frameY="0" frameWidth="393" frameHeight="308"/>
+	<SubTexture name="bfobj_LEFT instance 10003" x="1528" y="421" width="383" height="308" frameX="-10" frameY="0" frameWidth="393" frameHeight="308"/>
+	<SubTexture name="bfobj_LEFTMISS instance 10000" x="1911" y="421" width="542" height="421" frameX="0" frameY="-11" frameWidth="542" frameHeight="432"/>
+	<SubTexture name="bfobj_LEFTMISS instance 10001" x="1911" y="421" width="542" height="421" frameX="0" frameY="-11" frameWidth="542" frameHeight="432"/>
+	<SubTexture name="bfobj_LEFTMISS instance 10002" x="2453" y="421" width="542" height="421" frameX="0" frameY="0" frameWidth="542" frameHeight="432"/>
+	<SubTexture name="bfobj_LEFTMISS instance 10003" x="2453" y="421" width="542" height="421" frameX="0" frameY="0" frameWidth="542" frameHeight="432"/>
+	<SubTexture name="bfobj_RIGHT instance 10000" x="2995" y="421" width="381" height="314" frameX="-12" frameY="0" frameWidth="393" frameHeight="314"/>
+	<SubTexture name="bfobj_RIGHT instance 10001" x="2995" y="421" width="381" height="314" frameX="-12" frameY="0" frameWidth="393" frameHeight="314"/>
+	<SubTexture name="bfobj_RIGHT instance 10002" x="3376" y="421" width="382" height="313" frameX="0" frameY="-1" frameWidth="393" frameHeight="314"/>
+	<SubTexture name="bfobj_RIGHT instance 10003" x="3376" y="421" width="382" height="313" frameX="0" frameY="-1" frameWidth="393" frameHeight="314"/>
+	<SubTexture name="bfobj_RIGHTMISS instance 10000" x="0" y="842" width="542" height="421" frameX="-2" frameY="0" frameWidth="544" frameHeight="422"/>
+	<SubTexture name="bfobj_RIGHTMISS instance 10001" x="0" y="842" width="542" height="421" frameX="-2" frameY="0" frameWidth="544" frameHeight="422"/>
+	<SubTexture name="bfobj_RIGHTMISS instance 10002" x="542" y="842" width="542" height="421" frameX="0" frameY="-1" frameWidth="544" frameHeight="422"/>
+	<SubTexture name="bfobj_RIGHTMISS instance 10003" x="542" y="842" width="542" height="421" frameX="0" frameY="-1" frameWidth="544" frameHeight="422"/>
+	<SubTexture name="bfobj_UP instance 10000" x="1084" y="842" width="370" height="356" frameX="-1" frameY="0" frameWidth="372" frameHeight="361"/>
+	<SubTexture name="bfobj_UP instance 10001" x="1084" y="842" width="370" height="356" frameX="-1" frameY="0" frameWidth="372" frameHeight="361"/>
+	<SubTexture name="bfobj_UP instance 10002" x="1454" y="842" width="372" height="351" frameX="0" frameY="-10" frameWidth="372" frameHeight="361"/>
+	<SubTexture name="bfobj_UP instance 10003" x="1454" y="842" width="372" height="351" frameX="0" frameY="-10" frameWidth="372" frameHeight="361"/>
+	<SubTexture name="bfobj_UPMISS instance 10000" x="1826" y="842" width="542" height="421" frameX="-1" frameY="0" frameWidth="543" frameHeight="423"/>
+	<SubTexture name="bfobj_UPMISS instance 10001" x="1826" y="842" width="542" height="421" frameX="-1" frameY="0" frameWidth="543" frameHeight="423"/>
+	<SubTexture name="bfobj_UPMISS instance 10002" x="2368" y="842" width="542" height="421" frameX="0" frameY="-2" frameWidth="543" frameHeight="423"/>
+	<SubTexture name="bfobj_UPMISS instance 10003" x="2368" y="842" width="542" height="421" frameX="0" frameY="-2" frameWidth="543" frameHeight="423"/>
+</TextureAtlas>

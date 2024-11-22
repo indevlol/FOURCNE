@@ -1,13 +1,13 @@
 <!DOCTYPE codename-engine-stage>
 <!DOCTYPE codename-engine-stage>
 <stage zoom="0.9" name="yoyle" folder="stages/yoyle" startCamPosY = "500" startCamPosX="1500">
-    <sprite name = "bg"            x = "0" y = "0"   sprite = "bg"   scroll = "0.9" />
+    <sprite name = "bg"            x = "0" y = "0" sprite = "bg"   scroll = "0.9" />
     <sprite name = "Grass"      x = "200"  y = "500"     sprite = "Grass"      scroll = "0.9"/>
     <sprite name = "bg bushes"      x = "100"  y = "200"     sprite = "bg bushes"      scroll = "0.9"/>
     <sprite name = "bushes"      x = "0"  y = "300"     sprite = "bushes"      scroll = "0.9"/>
 
 
     <girlfriend x = "950"/>
-    <dad       x = "500"/>
-    <boyfriend x = "1500"/>
+    <dad       x = "600"/>
+    <boyfriend x = "1400"/>
 </stage>
