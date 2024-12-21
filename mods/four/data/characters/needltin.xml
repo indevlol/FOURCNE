@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" y="70" sprite="needltin" scale="0.9" icon="dad" holdTime="6.1">
+	<anim name="idle" anim="needleandgelatin idle" x="0" y="0" fps="24" loop="false"/>
+</character>

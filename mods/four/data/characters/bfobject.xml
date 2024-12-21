@@ -1,8 +1,13 @@
 <!DOCTYPE codename-engine-character>
-<character y="400" sprite="bfobjectNEW" flipX="true" isPlayer="true" icon="bfobject" gameOverChar="bfobjectNEWDEAD" holdTime="6.1">
+<character y="430" sprite="bfobjectNEW" flipX="true" camy="30" isPlayer="true" icon="bfobject" color="#53F5FF" gameOverChar="bfobjectDEAD" holdTime="6.1">
 	<anim name="idle" anim="bfobj_IDLE" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singUP" anim="bfobj_UP" x="-2" y="50" fps="24" loop="false"/>
-	<anim name="singLEFT" anim="bfobj_LEFT" x="-2" y="10" fps="24" loop="false"/>
-	<anim name="singRIGHT" anim="bfobj_RIGHT" x="-5" y="27" fps="24" loop="false"/>
-	<anim name="singDOWN" anim="bfobj_DOWN" x="0" y="-30" fps="24" loop="false"/>
+	<anim name="singUP" anim="bfobj_UP instance" x="-14" y="49" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="bfobj_LEFT instance" x="30" y="-3" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="bfobj_RIGHT instance" x="-42" y="6" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="bfobj_DOWN instance" x="7" y="-17" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="bfobj_LEFTMISS" x="75" y="88" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="bfobj_DOWNMISS" x="75" y="80" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="bfobj_UPMISS" x="90" y="80" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="bfobj_RIGHTMISS" x="87" y="85" fps="24" loop="false"/>
+	<anim name="HEY" anim="bfobj_HEY" x="-6" y="8" fps="24" loop="false"/>
 </character>

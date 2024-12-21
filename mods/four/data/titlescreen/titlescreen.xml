@@ -12,32 +12,26 @@
 
 	<intro length="16">
 		<text beat="1">
-			<line text="ninjamuffin99" />
-			<line text="phantomArcade" />
-			<line text="kawaisprite" />
-			<line text="evilsk8er" />
+			<line text="Funkin Fourever" />
 		</text>
 
 		<text beat="3">
-			<line text="ninjamuffin99" />
-			<line text="phantomArcade" />
-			<line text="kawaisprite" />
-			<line text="evilsk8er" />
+			<line text="Funkin Fourever" />
 			<line text="presents" />
 		</text>
 
 		<text beat="4" /> <!-- clears the screen !-->
 
 		<text beat="5">
-			<line text="In association" />
-			<line text="with" />
+			<line text="A love letter" />
+			<line text="to" />
 		</text>
 
 		<text beat="7">
-			<line text="In association" />
-			<line text="with" />
-			<line text="Newgrounds" />
-			<sprite path="menus/titlescreen/newgrounds_logo" scale="0.8"/>
+			<line text="A love letter" />
+			<line text="to" />
+			<line text="Jacknjellify" />
+			<sprite path="game/jacknjellify" scale="0.6"/>
 		</text>
 
 		<text beat="8" /> <!-- clears the screen !-->

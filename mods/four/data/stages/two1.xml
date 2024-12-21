@@ -7,5 +7,5 @@
     <sprite name = "grass"       x = "-1300"   y = "600"     sprite = "grass"       scroll = "0.9" />
     <girlfriend x = "-100"/>
     <dad       x = "-800"/>
-    <boyfriend x = "600"/>
+    <boyfriend x = "200"/>
 </stage>

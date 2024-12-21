@@ -19,7 +19,7 @@ function onEvent(e:EventGameEvent){
         var e = e;
         SongCredit.loadGraphic(Paths.image('game/SongCredits/' + e.event.params[0]));
         SongCredit.screenCenter();
-        FlxTween.tween(SongCredit, {alpha: 1}, 0.2, {startDelay: 2});
-        FlxTween.tween(SongCredit, {alpha: 0}, 0.2, {startDelay: 4});
+        FlxTween.tween(SongCredit, {alpha: 1}, 0.2, {startDelay: 0});
+        FlxTween.tween(SongCredit, {alpha: 0}, 0.2, {startDelay: 2});
     }
 }

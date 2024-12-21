@@ -228,11 +228,11 @@ class TitleState extends MusicBeatState
 		#else
 		switch (curBeat)
 		{
-			case 1:		createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
-			case 3:		addMoreText('present');
+			case 1:		createCoolText(['Funkin Fourever']);
+			case 3:		addMoreText('presents');
 			case 4:		deleteCoolText();
-			case 5:		createCoolText(['In association', 'with']);
-			case 7:		addMoreText('newgrounds');	ngSpr.visible = true;
+			case 5:		createCoolText(['A love letter', 'to']);
+			case 7:		addMoreText('jacknjellify');	ngSpr.visible = true;
 			case 8:		deleteCoolText();			ngSpr.visible = false;
 			case 9:		createCoolText([curWacky[0]]);
 			case 11:	addMoreText(curWacky[1]);
@@ -249,13 +249,13 @@ class TitleState extends MusicBeatState
 	public var xml:Access;
 	public var titleLength:Int = 16;
 	public var titleLines:Map<Int, IntroText> = [
-		1 => new IntroText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']),
-		3 => new IntroText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er', 'present']),
+		1 => new IntroText(['Funkin Fourever']),
+		3 => new IntroText(['Funkin Fourever', 'presents']),
 		4 => new IntroText(),
-		5 => new IntroText(['In association', 'with']),
-		7 => new IntroText(['In association', 'with', 'newgrounds', {
-			name: "newgroundsLogo",
-			path: "menus/titlescreen/newgrounds_logo",
+		5 => new IntroText(['A love letter', 'to']),
+		7 => new IntroText(['A love letter', 'to', 'jacknjellify', {
+			name: "Jacknjellify",
+			path: "mods/four/images/game/jacknjellify",
 			scale: 0.8
 		}]),
 		8 => new IntroText(),
