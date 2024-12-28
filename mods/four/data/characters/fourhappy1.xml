@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" y="390" sprite="fourhappy1" camx="50" icon="four" color="#307BCF" holdTime="6.1">
+	<anim name="idle" anim="4_IDLEHAPPY" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="4_UPHAPPY" x="2" y="227" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="4_LEFTHAPPY" x="92" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="4_RIGHTHAPPY" x="0" y="21" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="4_DOWNHAPPY" x="1" y="1" fps="24" loop="false"/>
+	<anim name="screechy" anim="4_SCREECH" x="50" y="110" fps="24" loop="false"/>
+</character>

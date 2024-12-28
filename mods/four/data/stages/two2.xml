@@ -1,8 +1,10 @@
 <!DOCTYPE codename-engine-stage>
 <!DOCTYPE codename-engine-stage>
-<stage zoom="0.8" name="two" folder="stages/two/" startCamPosY = "0" startCamPosX="0">
-    <sprite name = "hotel"            x = "-1000" y = "-200"   sprite = "hotel"   scroll = "0.9" />
+<stage zoom="0.85" name="two" folder="stages/two/" startCamPosY = "0" startCamPosX="0">
+    <sprite name = "sky2"            x = "-950" y = "-100"   sprite = "sky2"   scroll = "0.9" />
+    <sprite name = "mtn"            x = "-1000" y = "-100"   sprite = "mtn"   scroll = "0.9" />
+    <sprite name = "hotel"            x = "-1000" y = "400"   sprite = "hotel"   scroll = "0.9" />
     <girlfriend x = "0"/>
-    <dad       x = "-500"/>
-    <boyfriend x = "500"/>
+    <dad       x = "-650"/>
+    <boyfriend x = "270"/>
 </stage>
